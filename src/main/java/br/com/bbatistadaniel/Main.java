@@ -54,9 +54,5 @@ public class Main {
         }
 
         TextLoader.showDialogue("\nFim da história. Obrigado por jogar!\n", 50);
-
-        System.out.println("Aperte enter para fechar o programa.\n");
-        scanner.next();
-        System.exit(0);
     }
 }
